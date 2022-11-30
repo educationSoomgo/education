@@ -1,0 +1,31 @@
+.pota-b {
+    display: flex;
+    align-items: center;
+}
+.pota-img {
+    margin: 10px;
+    width: 170px;
+    height: 114px;
+}
+.img-ot {
+    width: 170px;
+    height: 114px;
+}
+.p-all {
+    display: block;
+    padding: 10px;
+}
+.p-main {
+    color: #ebaa00;
+    font-weight: 700;
+    font-size: 13px;
+    margin: 8px 0;
+}
+.p-sub {
+    color: #000;
+    font-size: 13px;
+    margin: 8px 0;
+}
+.p-sub-wei {
+    font-weight: 700;
+}
